@@ -32,6 +32,5 @@ git add "email_results.txt"	#stage file of email results
 
 #Problem 6
 git commit -m "Emails from geocities.com"	#commit file
-echo "test"
 
 
